@@ -1,0 +1,1 @@
+<?php require_once __DIR__.'/auth.php'; $pdo=pdo(); $id=(int)($_GET['id']??0); if($id>0){ $st=$pdo->prepare('DELETE FROM staff WHERE id=?'); $st->execute([$id]); } header('Location: dashboard.php'); exit; ?>
