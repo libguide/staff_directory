@@ -15,7 +15,7 @@
 4. Copy this folder to your server, e.g., `C:\xampp\htdocs\staff` or `/var/www/html/staff`.
 5. Open `http://localhost/staff/` for public view, and `http://localhost/staff/admin/login.php` for admin.
 
-**Default Admin**: `admin / admin123` → change in `config.php`.
+**Default Admin**: `admin / Admin@123` → change in `config.php`.
 
 ## CSV import
 - Save your Excel sheet as **CSV (Comma delimited)**.
