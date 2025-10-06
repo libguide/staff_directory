@@ -1,5 +1,5 @@
 
-# Staff Directory (PHP + MySQL) — v2.4 (Complete)
+# Staff Directory (PHP + MySQL) 
 
 **Features**
 - Add/Edit/Delete staff (Name, Designation, Department, Email (optional), Intercom, Direct Number, Address, Blood Group (optional), Category)
